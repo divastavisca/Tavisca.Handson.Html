@@ -1,0 +1,67 @@
+#heading{
+	font-family: calibri;
+	color: grey;
+}
+
+a:hover{
+	font-family: virginia;
+	color: hotpink;
+}
+
+a:visited {
+    color: grey;
+}
+
+.content-heads-deco{
+	padding-bottom: 20px;
+	text-decoration: underline;
+}
+
+#special-font{
+	font-family: georgia;
+	font-weight: 4;
+}
+
+#bg-color{
+	font-family: times;
+	border-left-style: solid;
+	border-left-color: rgb(90, 232, 255) ;
+	border-left-width: 40px;
+	background-color: rgb(176, 232, 255);
+}
+
+.hr{
+	border-bottom: 4px solid white;
+	padding-top: 14px;
+    padding-bottom: 14px;
+	padding-right: 14px;
+	padding-left: 14px;
+}
+
+table.head{
+	width: 100%;
+}
+
+table.non-head{
+	width: 100%;
+	border: 1px solid black;
+	text-align: left;
+	background-color: rgb(172, 232, 255);
+}
+
+th,td.title {
+    background-color: #4CAF50;
+    color: white;
+}
+
+tr.data:hover {
+	background-color: rgb(209, 232, 255);
+}
+
+td.data:hover {
+	background-color: rgb(209, 232, 255);
+}
+
+#email{
+	text-align: right;
+}
